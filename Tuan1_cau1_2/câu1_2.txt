@@ -1,0 +1,13 @@
+LẬP TRÌNH MOBILE
+Tuần 1 – Bài 1,2 
+1. Mong muốn và định hướng của bạn là gì sau khi học xong môn học này?
+Sau khi học xong môn học, em mong muốn có thể nắm vững các kiến thức và kỹ năng lập trình di động cơ bản, đồng thời cải thiện kỹ năng mềm để tự tin ứng tuyển vào vị trí thực tập. Đặc biệt là sử dụng thành thạo Android Studio và các ngôn ngữ lập trình liên quan trong việc xây dựng giao diện người dùng (UI) và xử lý dữ liệu. Định hướng của em là phát triển theo hướng lập trình viên mobile, có thể tự xây dựng được một ứng dụng hoàn chỉnh bằng Flutter hoặc React Native, đồng thời triển khai lên cửa hàng ứng dụng như Google Play hoặc App Store.
+2. Theo bạn, trong tương lai gần (10 năm) lập trình di động có phát triển không? Giải thích tại sao?
+Theo em, trong 10 năm tới lập trình di động chắc chắn vẫn sẽ phát triển mạnh mẽ.
+Bởi vì:
+-  Số lượng người dùng smartphone tăng liên tục, điện thoại gần như là thiết bị chính để truy cập Internet.
+- Các dịch vụ từ học tập, mua sắm, thanh toán, y tế, vận chuyển… đều chuyển sang nền tảng di động.
+- Công nghệ như AI, IoT, 5G, thanh toán số thúc đẩy nhu cầu về ứng dụng mobile thông minh, tiện lợi.
+- Các công cụ như Kotlin, Flutter, React Native giúp việc phát triển app nhanh hơn, chi phí thấp hơn, dễ tiếp cận cho sinh viên và lập trình viên trẻ.
+Vì nên, theo em học lập trình di động là hướng đi rất thực tế và có nhiều cơ hội nghề nghiệp trong tương lai.
+
