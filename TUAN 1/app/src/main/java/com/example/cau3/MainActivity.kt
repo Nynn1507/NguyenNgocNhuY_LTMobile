@@ -82,13 +82,13 @@ fun ProfileScreen() {
             Spacer(modifier = Modifier.height(16.dp))
 
             Text(
-                text = "Johan Smith",
+                text = "Stitch",
                 fontSize = 22.sp,
-                color = Color.Black
+                color = Color(0xFFA3D8F4)
             )
 
             Text(
-                text = "California, USA",
+                text = "Tay Ninh, Vietnam",
                 fontSize = 16.sp,
                 color = Color(0xFF777777)
             )
